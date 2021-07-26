@@ -1,0 +1,137 @@
+﻿body {
+    font: 12px normal Arial, Helvetica, sans-serif;
+    background-image: url('Resimler/Lastik4.jpg');
+    background-repeat:repeat;
+}
+*, * focus {
+    outline: none;
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    width:288px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+        h2.ustoge {
+            
+            height: 35px;
+            line-height: 35px;
+            width: 288px;
+            font-size: 16px;
+            font-weight: normal;
+            float: left;
+            padding-left: 6px;
+            margin-bottom: 6px;
+            background-image: url('Resimler/Lastik3.jpg');
+            background-repeat:repeat;
+        }
+h2.active {background-position: left bottom;}
+.ustoge a{
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    display:block;
+}
+.ustoge a:hover{
+    color:#ff0000;
+}
+.icerik{
+    clear: both;
+    padding: 6px;
+    background-color: #FCFCFC;
+    margin-bottom: 6px;
+    border: 1px solid #F5F5F5;
+    color: #666;
+    overflow: hidden;
+    text-align: justify;
+}
+.icerik a{
+    color: #F60;
+    padding:6px;
+}
+.icerik ul {
+    padding:0px;
+}
+.icerik ul li {
+    list-style:none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #F2F2F2;
+}
+.icerik ul li:hover {
+    border-bottom-color: #ff0000;
+}
+.icerik ul li a{
+    display:block;
+    text-decoration:none;
+    color:#66859D;
+    font-weight:bold;
+    font-size: 14px;
+}
+.icerik ul li a:hover{
+    color:#ff0000;
+}
+.logo{
+    width:318px;  
+    height: 82px;
+    background-image:url("\Resimler\logo2.jpg");
+    background-repeat:repeat;
+    margin:0px;
+}
+.islemadi {
+    width: 318px;
+    background:#ff0000;
+    height: 82px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.yapilanlar{
+    width: 318px;
+    background: #cacaca;
+    padding-left: 10px;
+    padding-top: 10px;
+} 
+nav{
+    float:left;
+    width:609px;
+    height:45px;
+    border-right:1px solid #ff0000;
+    line-height:45px;
+
+}
+nav ul{
+    list-style:none;
+    
+}
+ nav ul li{
+    float:left;
+    margin-left:15px;
+    color:#555;
+}
+
+ nav ul li.unite-wrap{
+    position:relative;
+}
+ nav ul li.unite-wrap .unite{
+    display:none;
+    position:absolute;
+    width:200px;
+    height:auto;
+   background-color:#fff;
+
+}
+ a{
+    text-decoration:none;
+    color:#fff;
+}
+a:hover{
+    color:#ff0000;
+}
+.cikis-wrap{
+    float:right;
+    width:160px;
+    height:45px;
+    line-height:45px;
+    font: 12px normal Arial, Helvetica, sans-serif;
+}

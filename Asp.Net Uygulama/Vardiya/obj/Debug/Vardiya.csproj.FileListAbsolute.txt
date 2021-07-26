@@ -1,0 +1,129 @@
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\ApplicationInsights.config
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\csc.exe
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\vbc.exe
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Vardiya.dll.config
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Vardiya.pdb
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.AI.Web.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.ApplicationInsights.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.AI.Web.xml
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.ApplicationInsights.xml
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\Desktop\Vardiya\Vardiya\obj\Debug\Vardiya.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Vardiya\Vardiya\obj\Debug\Vardiya.pdb
+C:\Users\asus\Desktop\Vardiya\Vardiya\bin\Vardiya.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\ApplicationInsights.config
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\csc.exe
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\vbc.exe
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Vardiya.dll.config
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Vardiya.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Vardiya.pdb
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.AI.Web.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.ApplicationInsights.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.AI.Web.xml
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.ApplicationInsights.xml
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\obj\Debug\Vardiya.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Vardiya - Kopya (3)\Vardiya\obj\Debug\Vardiya.pdb
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\ApplicationInsights.config
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\csc.exe
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\vbc.exe
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Vardiya.dll.config
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Vardiya.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Vardiya.pdb
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.AI.Web.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.ApplicationInsights.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.AI.Web.xml
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.ApplicationInsights.xml
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\obj\Debug\Vardiya.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\obj\Debug\Vardiya.pdb
+C:\Users\asus\Desktop\Vardiya - Kopya\Vardiya\bin\itextsharp.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\ApplicationInsights.config
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\csc.exe
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\vbc.exe
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Vardiya.dll.config
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Vardiya.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Vardiya.pdb
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.AI.Web.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.ApplicationInsights.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.AI.Web.xml
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.ApplicationInsights.xml
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\obj\Debug\Vardiya.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Bitirme_Tezi\Asp.Net Uygulama\Vardiya\obj\Debug\Vardiya.pdb

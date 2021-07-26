@@ -1,0 +1,134 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Menu.master.cs" Inherits="Vardiya.Menu" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+       <title></title>
+   
+    <link href="/Menu.css" rel="stylesheet" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $(".icerik").hide();
+    $("h2.ustoge").click(function(){
+        $(this).toggleClass("active").next().slideToggle("fast");
+    });
+});
+</script>
+ 
+      <style type="text/css">
+        .auto-style2 {
+            width: 930px;
+            background-image: url('Resimler/Lastik3.jpg');
+             background-repeat:repeat;
+            height: 82px;
+            font: 18px normal Arial, Helvetica, sans-serif;
+        }
+        .auto-style4 {
+            width: 1272px;
+              height: 591px;
+          }
+        .auto-style5 {
+            width: 277px;
+               
+        }
+          .auto-style6 {
+              width: 300px;
+              background: #fff;
+              height: 82px;
+              background-image:url("/Resimler/logo2.jpg");
+              background-repeat:no-repeat;
+              text-align:center;
+          }
+          .auto-style8 {
+              width: 277px;
+              height: 525px;
+          }
+          .auto-style9 {
+              width: 318px;
+              background: #fff;
+              padding-left: 10px;
+              padding-top: 10px;
+              height: 525px;
+          }
+          </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table class="auto-style4">
+           <tr>
+               <td class="auto-style5"><div class="auto-style6">
+ </div></td>
+               <td class="auto-style2"> 
+                    <nav>
+               <ul>
+                   <li>
+                       <a href="Anasayfa.aspx">  Anasayfa </a>
+                     
+                   </li>
+                     <li>
+                      <a href="Hakkinda.aspx">  Hakkımızda </a> 
+                   </li>
+                     <li class="unite-wrap">
+                        <a href="#.aspx">  Üniteler </a>
+                         <div class="unite">
+                         <ul>
+                             <li><a href="Pisirme.aspx"> Pişirme Ünitesi</a></li>
+                             <li><a href="Imalat.aspx"> İmalat Unitesi</a> </li>
+                        </ul>               
+                             </div>
+                  </li>
+                     <li>
+                       <a href="Iletisim.aspx">  İletişim </a>  
+                   </li>
+               </ul>
+           </nav><div class="cikis-wrap">
+              <h4> <a href="Anasayfa.aspx">Çıkış</a></h4>
+           </div> </td>
+               </tr>
+     
+           
+           <tr> <td class="auto-style8"> <div class="menu">
+    <h2 class="ustoge"><a href="#">Kayıt Bilgileri</a></h2>
+    <div class="icerik">
+        <ul>
+            <li><a href="Kayit_Ekle.aspx">Kayıt Ekle</a></li>
+            <li><a href="Goruntuleme.aspx">Kayıt Görüntüle </a></li>
+            <li><a href="Kayit_Guncelle.aspx">Kayıt Güncelle</a></li>
+            <li><a href="Kayit_Ara.aspx">Kayıt Ara</a></li>
+          
+        </ul>
+    </div>
+ 
+    <h2 class="ustoge"><a href="#">Vardiya</a></h2>
+    <div class="icerik">
+        <ul>
+            <li><a href="Vardiya_Kayit.aspx">Vardiya Oluştur</a></li>
+            <li><a href="Vardiya_Goruntuleme.aspx">Vardiya Görüntüle</a></li>
+            <li><a href="Vardiya_Güncelleme.aspx">Vardiya Güncelleme</a></li>
+            <li><a href="Vardiya_Ara.aspx">Kişi Bazlı Vardiya Arama</a></li>
+            <li><a href="Mesai_Kayit.aspx">Mesai Oluştur</a></li>
+        </ul>
+    </div>
+ 
+    <h2 class="ustoge"><a href="#">Çalışma Saati</a></h2>
+    <div class="icerik">
+    <ul>
+            <li><a href="Calisma_Saati.aspx">Kişi Bazlı Çalışma Görüntüleme</a></li>
+        </ul>
+    </div>
+</div></td>
+               <td class="auto-style9">
+                 
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                   </td>
+               </tr>
+                   </table>
+    </form>
+</body>
+</html>
